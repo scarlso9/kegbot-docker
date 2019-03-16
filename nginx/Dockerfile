@@ -1,4 +1,4 @@
-FROM nginx:1.11-alpine
+FROM nginx
 
 #ADD kegbot.conf /etc/nginx/conf.d/default.conf
 #ADD nginx.conf /etc/nginx/nginx.conf

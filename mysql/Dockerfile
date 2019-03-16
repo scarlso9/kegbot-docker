@@ -1,2 +1,2 @@
 # Base image
-FROM mysql:8
+FROM hypriot/rpi-mysql
